@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Chat GPT</title>
         <meta charset="UTF-8">
     </head>
     <body style="background-color: cornflowerblue;">
